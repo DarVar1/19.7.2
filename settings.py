@@ -1,2 +1,2 @@
-valid_email = "oautare1ka@yandex.ru"
-valid_password = "gthcjyf;"
+valid_email = ""
+valid_password = ""
